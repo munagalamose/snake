@@ -1,0 +1,9 @@
+Name: 
+Roll No.: 
+Email: 
+Contact: 
+
+Notes:
+- Built with Cocos Creator 3.8.5
+- Open `Game.scene` to run
+- Includes web/Android build in build/ (if present)
