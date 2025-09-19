@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Snake vs Block – Internship Assignment
 
 ## 💻 Cocos Version
@@ -29,3 +30,6 @@ Cocos Creator 3.8.5
 - Uses object pooling.
 - Runs at 60 FPS on mid-range devices (tested on TBD).
 # snake-and-blocks
+=======
+# snake
+>>>>>>> 77e5f84a3684dfdf1d769ab144fb4df74ceae49b
