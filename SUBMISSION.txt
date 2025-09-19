@@ -1,7 +1,7 @@
-Name: 
-Roll No.: 
-Email: 
-Contact: 
+Name: munagala mose
+Roll No.: AP22110011441
+Email: mose_munagala@srmap.edu.in
+Contact: 7207106943
 
 Notes:
 - Built with Cocos Creator 3.8.5
